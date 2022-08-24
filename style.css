@@ -20,7 +20,7 @@ body{
 .logo{
 	width: 30%;
 	padding: 0.5%;
-	padding-left: 3%;
+	padding-left: 8%;
 	padding-top: 1%;
 }
 .logo2{
@@ -67,11 +67,10 @@ body{
 	margin-top: 8%;
 }
 .footer{
-	margin-top: 8%;
+	margin-top: 10%;
 	background-color: #dcdee0;
 	text-align: center;
-	padding-top: 10%;
-	height: 15vh;
+	height: 24vh;
 }
 *{
 	padding: 0px;
